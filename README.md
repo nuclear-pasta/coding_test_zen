@@ -1,9 +1,10 @@
 INSTRUCTIONS <br />
 <br />
 1 Enter the folder "zen-api" <br />
-2 Run "rails s -p 3001" <br />
-3 Enter the folder "client" <br />
-4 Run "npm start" <br />
+2 Run "rails db:create","rails db:migrate" "rails db:seed" <br />
+3 Run "rails s -p 3001" <br />
+4 Enter the folder "zen" <br />
+5 Run "npm start" <br />
 
 QUESTIONS <br />
 <br />
